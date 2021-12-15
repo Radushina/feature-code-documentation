@@ -1,6 +1,6 @@
 #  NeuroStartUp
 
-! [] (https://github.com/Radushina/NeuroStartUp/blob/main/logo.png)
+![logo](logo.png)
 
 * NeuroStartUp * - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
